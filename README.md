@@ -35,3 +35,7 @@ def adjust_fan_speed():
         time.sleep(30)  # Adjust the fan speed every 30 seconds
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+s
